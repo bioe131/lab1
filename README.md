@@ -2,7 +2,27 @@
 
 ## 🤓 Course overview and learning outcomes 
 
-The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
+The goal of this course is to give you a brief introduction to GitHub and Berkeley's DataHub. We’ll also provide you with materials for further learning and a few ideas to get you started. 🚀
+
+## Connecting to DataHub
+
+The labs for this course will make use of Jupyter notebooks. Berkeley provides resources to run Jupyter notebooks (https://datahub.berkeley.edu/). It is also possible to run Jupyter on your laptop with [Jupyter lab](https://jupyter.org/).
+
+For this class, we will be providing Jupyter notebooks that can be run on the Berkeley DataHub. This allows you to keep your files in one place and access them remotely. To get started, login to the DataHub (https://datahub.berkeley.edu/). You should see a simple landing page prompting you for a username and password. Your username and password are your Berkeley email and password.
+
+![image](https://user-images.githubusercontent.com/10859440/130528352-df6c23f1-3f24-4c6d-8454-a662ecf894f6.png)
+
+
+## Create a new test notebook
+
+Create a test notebook. Click “New” and select “Python 3.” You’ll get a new notebook. Give it the old “Hello World” test and press “Run” to make sure everything’s working, then go to `File->Close` and Halt to end the session.
+
+![image](https://user-images.githubusercontent.com/10859440/130528417-56ce77a6-32a7-463b-8d6a-0b9643c62964.png)
+
+
+## Test the terminal function
+
+Back on the main jupyterhub page, choose “New” and select “Terminal.” Isn’t that convenient?
 
 ## :octocat: Git and GitHub
 
