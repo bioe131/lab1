@@ -37,6 +37,11 @@ git config --global user.name "Your Name"
 ```
 
 
+### Setup a GitHub personal access token
+
+To access (clone, pull, push to) repositories via the command line on DataHub, you will need a GitHub personal access token to authenticate yourself (using your github account name/email). The instructions to do so are [here](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token). Keep this token safe and treat if like a password. Note that it is only used to authenticate when using the command line interface. You will still use your normal GitHub username/password to access the GitHub website.
+
+
 ## :octocat: Git and GitHub
 
 Git is a **distributed Version Control System (VCS)**, which means it is a useful tool for easily tracking changes to your code, collaborating, and sharing. With Git you can track the changes you make to your project so you always have a record of what you’ve worked on and can easily revert back to an older version if need be. It also makes working with others easier—groups of people can work together on the same project and merge their changes into one final source!
