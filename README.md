@@ -1,8 +1,10 @@
 # :wave: The Basics of GitHub and Berkeley DataHub
 
-## 🤓 Course overview and learning outcomes 
+## 🤓 Lab overview and learning outcomes 
 
 The goal of this course is to give you a brief introduction to GitHub and Berkeley's DataHub. We’ll also provide you with materials for further learning and a few ideas to get you started. 🚀
+
+This assignment requires a submission detailed at the end of this tutorial.
 
 ## DataHub
 
@@ -39,7 +41,7 @@ git config --global user.name "Your Name"
 
 ### Setup a GitHub personal access token
 
-To access (clone, pull, push to) repositories via the command line on DataHub, you will need a GitHub personal access token to authenticate yourself (using your github account name/email). The instructions to do so are [here](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token). Keep this token safe and treat if like a password. Note that it is only used to authenticate when using the command line interface. You will still use your normal GitHub username/password to access the GitHub website.
+To access (clone, pull, push to) repositories via the command line on DataHub, you will need a GitHub personal access token to authenticate yourself (using your github account name/email). The instructions to do so are [here](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token). Keep this token safe and treat it like a password. Note that it is only used to authenticate when using the command line interface. You will still use your normal GitHub username/password to access the GitHub website.
 
 
 ## :octocat: Git and GitHub
@@ -125,6 +127,16 @@ To learn more about following users, read ["Following People"](https://docs.gith
 GitHub Explore is a great place to do just that … explore :smile: You can find new projects, events, and developers to interact with.
 
 You can check out the GitHub Explore website [at github.com/explore](https://github.com/explore). The more you intereact with GitHub the more tailored your Explore view will be. 
+
+## Assignment details
+
+Now that DataHub and GitHub are setup, please do the following
+
+1. Within the cloned repository for Lab 1, add a file called `about_me.md`.
+2. Write ~3 sentences in the file to briefly introduce yourselves to us and describe what you'd like to take away from this course.
+3. Commit the file (`git add about_me.md`, `git commit -m "added about me file"`, `git push origin main`).
+4. Upload link to your private lab repo on bCourses assignment.
+
 
 ## 📝 Optional next steps 
 
