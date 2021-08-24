@@ -4,7 +4,7 @@
 
 The goal of this course is to give you a brief introduction to GitHub and Berkeley's DataHub. We’ll also provide you with materials for further learning and a few ideas to get you started. 🚀
 
-## Connecting to DataHub
+## DataHub
 
 The labs for this course will make use of Jupyter notebooks. Berkeley provides resources to run Jupyter notebooks (https://datahub.berkeley.edu/). It is also possible to run Jupyter on your laptop with [Jupyter lab](https://jupyter.org/).
 
@@ -13,16 +13,29 @@ For this class, we will be providing Jupyter notebooks that can be run on the Be
 ![image](https://user-images.githubusercontent.com/10859440/130528352-df6c23f1-3f24-4c6d-8454-a662ecf894f6.png)
 
 
-## Create a new test notebook
+### Create a new test notebook
 
 Create a test notebook. Click “New” and select “Python 3.” You’ll get a new notebook. Give it the old “Hello World” test and press “Run” to make sure everything’s working, then go to `File->Close` and Halt to end the session.
 
 ![image](https://user-images.githubusercontent.com/10859440/130528417-56ce77a6-32a7-463b-8d6a-0b9643c62964.png)
 
 
-## Test the terminal function
+### Test the terminal function
 
 Back on the main jupyterhub page, choose “New” and select “Terminal.” Isn’t that convenient?
+
+
+### Configure Git on DataHub
+
+To use git with remote repositories, it is necessary to configure git with your GitHub-associated email address and your name.
+
+To do this, create a terminal on DataHub and run the following commands (keep the quotes and replace text inside).
+
+```
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+```
+
 
 ## :octocat: Git and GitHub
 
