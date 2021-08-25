@@ -133,7 +133,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 Now that DataHub and GitHub are setup, please do the following
 
 1. Within the cloned repository for Lab 1, add a file called `about_me.md`.
-2. Write ~3 sentences in the file to briefly introduce yourselves to us and describe what you'd like to take away from this course.
+2. Write ~3 sentences in the file to briefly introduce yourself to us and describe what you'd like to take away from this course.
 3. Commit the file (`git add about_me.md`, `git commit -m "added about me file"`, `git push origin main`).
 4. Upload link to your private lab repo on bCourses assignment.
 
