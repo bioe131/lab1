@@ -2,9 +2,9 @@
 
 ## 🤓 Lab overview and learning outcomes 
 
-The goal of this course is to give you a brief introduction to GitHub and Berkeley's DataHub. We’ll also provide you with materials for further learning and a few ideas to get you started. 🚀
+The goal of this lab is to give you a brief introduction to GitHub and Berkeley's DataHub. We’ll also provide you with materials for further learning and a few ideas to get you started. 🚀
 
-This assignment requires a submission detailed at the end of this tutorial.
+This lab includes an assignment. Instructions to submit the assignment are detailed at the end of this tutorial.
 
 ## DataHub
 
