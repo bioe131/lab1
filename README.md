@@ -138,6 +138,11 @@ Now that DataHub and GitHub are setup, please do the following
 4. Commit the file (`git add about_me.md`, `git commit -m "added about me file"`, `git push origin main`).
 5. Upload link to your private lab repo on bCourses assignment.
 
+### Rubric
+
+| Description   | Points |
+| ------------- | ------------- |
+| Personal GitHub repository contains an `about_me.md` file with appropriate text  | 1  |
 
 ## 📝 Optional next steps 
 
