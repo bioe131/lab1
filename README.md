@@ -41,7 +41,7 @@ git config --global user.name "Your Name"
 
 ### Setup a GitHub personal access token
 
-To access (clone, pull, push to) repositories via the command line on DataHub, you will need a GitHub personal access token to authenticate yourself (using your github account name/email). The instructions to do so are [here](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token). Keep this token safe and treat it like a password. Note that it is only used to authenticate when using the command line interface. You will still use your normal GitHub username/password to access the GitHub website.
+To access (clone, pull, push to) repositories via the command line on DataHub, you will need a GitHub personal access token to authenticate yourself (using your github account name/email). The instructions to do so are [here](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token). Please ensure that the repo scope (and all items in "repo") are selected. Keep this token safe and treat it like a password. Note that it is only used to authenticate when using the command line interface. You will still use your normal GitHub username/password to access the GitHub website.
 
 
 ## :octocat: Git and GitHub
